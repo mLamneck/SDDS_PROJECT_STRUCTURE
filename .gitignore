@@ -1,0 +1,8 @@
+# ignore everything by default
+*
+
+# Whitelist
+!.gitignore
+!.vscode/
+!.vscode/*
+!appContainer.cpp
