@@ -8,6 +8,8 @@
                 "${workspaceFolder}/${config:activeProject}/sys/SDDS/src",
                 "${workspaceFolder}/${config:activeProject}/sys/SDDS/test",
                 "${workspaceFolder}/${config:activeProject}/sys/vbusSpike/src",
+                "${workspaceFolder}/${config:activeProject}/sys/vbusSpike/debug",
+				"${workspaceFolder}/${config:activeProject}/sys/textDisplaySpike/src",
 				"${workspaceFolder}/${config:activeProject}/sys/src",
                 "${workspaceFolder}/${config:activeProject}/sys"
             ],
@@ -18,6 +20,8 @@
 					"${workspaceFolder}/${config:activeProject}/sys/SDDS/src",
 					"${workspaceFolder}/${config:activeProject}/sys/SDDS/test",
 					"${workspaceFolder}/${config:activeProject}/sys/vbusSpike/src",
+					"${workspaceFolder}/${config:activeProject}/sys/vbusSpike/debug",
+					"${workspaceFolder}/${config:activeProject}/sys/textDisplaySpike/src",
 					"${workspaceFolder}/${config:activeProject}/sys/src",
 					"${workspaceFolder}/${config:activeProject}/sys"
 					],

@@ -2,6 +2,12 @@
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	//
+	// I removed the following line from the configuration. 
+	// now I have to manually run the build cmd bfore debugging
+	// but I can restart the debugger without building it again
+	//       "preLaunchTask": "C/C++: g++.exe build active file"
+
     "version": "0.2.0",
     "configurations": [
         {
@@ -28,7 +34,6 @@
                 "ignoreFailures": true
               }
             ],
-            "preLaunchTask": "C/C++: g++.exe build active file"
           }
       
     ]
